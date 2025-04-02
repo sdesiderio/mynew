@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  react-app:
+  mynew:
     build:
       context: .
       dockerfile: Dockerfile
